@@ -31,4 +31,4 @@ function calcularIMC(pesoLibras, estaturaCm) {
   }
   
 
-  calcularIMC(160, 170); // Peso en libras: 160, Estatura en cm: 170
+  calcularIMC(160, 170);
